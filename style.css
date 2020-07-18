@@ -1,0 +1,31 @@
+/* .tab {
+    border: 2px black solid;
+}
+tr {
+    border: 2px black solid; 
+    border-collapse: collapse;
+    padding: 5%;
+} 
+.th {
+    border: 2px black solid;
+    border-collapse: collapse;
+}
+.td {
+    padding: 0%;
+    margin: 0%;
+    border: 2px black solid;
+    border-collapse: collapse;
+}  */
+/* .tab {
+    margin: 10%;
+    border: 2px black solid;
+    border-color: black solid;
+} */
+
+
+
+* { font: 17px Calibri; } 
+table { width: 70%; }
+table, th, td { border: solid 1px #DDD;
+    border-collapse: collapse; padding: 2px 3px; text-align: center;
+}
